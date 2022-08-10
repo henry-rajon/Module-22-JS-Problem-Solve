@@ -13,4 +13,4 @@ function removedDuplicate(names) {
 }
 
 const getRemovedName = removedDuplicate(names);
-console.log(getRemovedName); 
+// console.log(getRemovedName); 
